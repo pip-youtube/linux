@@ -3,3 +3,4 @@
 
  Teaser:
  ![youtubeHtop](demo/screenshots/youtube_htop.png)
+ ![mpvHtop](demo/screenshots/mpv_htop.png)
